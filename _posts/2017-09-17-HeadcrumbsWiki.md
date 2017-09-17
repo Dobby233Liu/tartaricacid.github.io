@@ -25,7 +25,7 @@ Headcrumbs模组在杀死一些特定名字的生物时候，会掉落一些特�
 |    Vazkii    |               掉落植物魔法的各色花瓣                | 知名mod作者，著有Botania，Psi，Quark等 |
 |    cpw11     |            会掉落一本泥箱9000的说明手册一本            |   铁箱子mod的作者，同时是forge的作者之一    |
 |   deadmau5   |               掉落唱片13 和WAIT               |                              |
-|  direwolf20  | ~~出生时手持一把BuildCraft的扳手~~ ，还会时不时发出“take it easy“的声音 |      知名……额，不介绍了吧，大家都认识       |
+|  direwolf20  | ~~出生时手持一把BuildCraft的扳手，~~ 时不时发出“take it easy“的声音 |      知名……额，不介绍了吧，大家都认识       |
 |    iChun     |         如果着火状态下死亡，掉落熟猪肉；否则掉落生猪肉          |     知名mod作者，传送枪mod就是他做的      |
 |   jadedcat   |           会掉落紫色染料。平时发出的声音是豹猫叫声           |                              |
 |  joshiejack  |              生成时主手必然会有一把钓鱼竿              |                              |
