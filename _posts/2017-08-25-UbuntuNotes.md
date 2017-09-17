@@ -12,7 +12,7 @@ description: >
 >
 > 内存：11.6 GB
 >
-> CPU：Intel® Core™ i3-2370M CPU @ 2.40GHz × 4 
+> CPU：Intel® Core™ i3-2370M CPU @ 2.40GHz × 4
 >
 > 显卡：Intel® Sandybridge Mobile 和 NVIDIA GEFORCE 720M
 
